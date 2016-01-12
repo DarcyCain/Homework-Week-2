@@ -1,0 +1,106 @@
+<<<<<<< HEAD
+h1{
+	color:#3B579D;
+	text-align: center;
+}
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: white;
+}
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    text-align: center;
+}
+#microsoft{
+	width:110px;
+	border-color: #3B579D;
+	vertical-align: middle;
+}
+.navbar-default {
+    background-color: white;
+    border-color: white;
+}
+.dropdown{
+    color: black;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+    background-color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    vertical-align: middle;
+}
+#landing{
+	width:1500px;
+	text-align: center;
+}
+.shop{
+	font-size: 14px;
+	color:white;
+	font-style: underline;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.jumbotron {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: inherit;
+    background-color: #eee;
+}
+img {
+	display: block;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.micro{
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+    padding-bottom: 12px;
+}
+#microsoft{
+	vertical-align: middle;
+}
+#appstore{
+	width: 1500px;
+	background-position: center;
+}
+.feature-title{
+	text-align: center;
+}
+.feature-description{
+	text-align: center;
+}
+#work{
+	text-align: center;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+=======
+h1 {
+  color: red;
+}
+.navbar-inverse {
+  background-color: red;
+  border-color: red;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #fff;
+  background-color: red;
+>>>>>>> origin/master
+}
